@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RAF_GUI.js</file>
+        <file>Cursor.qml</file>
+        <file>images/chms_logo.png</file>
+        <file>images/stop_sign.jpg</file>
+        <file>images/stop_sign.png</file>
+        <file>images/stop_sign_highlight.png</file>
+        <file>ArmCamSwitch.qml</file>
+        <file>ArmCamDelay.qml</file>
+        <file>CustomDelay.qml</file>
+        <file>StartDelay.qml</file>
+        <file>BackDelay.qml</file>
+        <file>ResetDelay.qml</file>
+        <file>FocusDelay.qml</file>
+    </qresource>
+</RCC>
